@@ -2,12 +2,12 @@
 
 En tu consola corre el siguiente comando para clonar el proyecto a tu maquina
 ```sh
-git clone https://github.com/brandonvilla21/backend-nodejs-03.git
+git clone https://github.com/brandonvilla21/backend-nodejs-02.git
 ```
 
 Entra a la carpeta que se generó:
 ```sh
-cd backend-nodejs-03
+cd backend-nodejs-02
 ```
 
 ## Pasos para correr el proyecto
